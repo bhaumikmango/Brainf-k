@@ -1,5 +1,7 @@
 # The Perilous Journey of Brainfuck: A Cognitive Deconstruction
 
+---
+
 ## Abstract
 
 This abstract chronicles an accidental encounter with the esoteric programming language, **Brainfuck**, and the subsequent deconstruction of conventional programming logic. My initial exploration, driven by an almost morbid curiosity about a language defined by only eight commands, swiftly escalated from a trivial academic exercise into a profound test of mental fortitude. While modern languages abstract away complexity, this journey plunged me into the rawest form of computational thought, forcing me to grapple directly with a memory tape and a moving pointer.
